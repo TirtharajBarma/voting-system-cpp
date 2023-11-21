@@ -1,0 +1,12 @@
+Username: tirtha
+Name: Tirtharaj Barma
+Date of Birth: 2003-02-15
+Has Voted: No
+Voter ID: RRWYW4532E
+------------------------
+Username: tirtha
+Name: Tirtharaj Barma
+Date of Birth: 2003-02-15
+Has Voted: Yes
+Voter ID: RRWYW4532E
+------------------------
