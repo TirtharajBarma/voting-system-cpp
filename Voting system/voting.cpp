@@ -6,6 +6,7 @@
 #include <ctime>
 #include <cstdlib>
 #include <cctype>
+
 using namespace std;
 
 // Structure to represent a voter
