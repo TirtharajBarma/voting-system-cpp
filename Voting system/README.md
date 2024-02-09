@@ -42,5 +42,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.
-
-Please let me know if you have any questions or encounter any issues!
